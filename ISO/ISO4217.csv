@@ -1,0 +1,180 @@
+"[Alpha3]|[Capacity]|[Currency]|[ISO4217ID]|[Locations]|[NumericCode]" 
+AED|2|United Arab Emirates dirham|1|United Arab Emirates|784
+AFN|2|Afghan afghani|2|Afghanistan|971
+ALL|2|Albanian lek|3|Albania|008
+AMD|2|Armenian dram|4|Armenia|051
+ANG|2|Netherlands Antillean guilder|5|Curacao, Sint Maarten|532
+AOA|2|Angolan kwanza|6|Angola|973
+ARS|2|Argentine peso|7|Argentina|032
+AUD|2|Australian dollar|8|Australia, Australian Antarctic Territory, Christmas Island, Cocos (Keeling) Islands, Heard and McDonald Islands, Kiribati, Nauru, Norfolk Island, Tuvalu|036
+AWG|2|Aruban florin|9|Aruba|533
+AZN|2|Azerbaijani manat|10|Azerbaijan|944
+BAM|2|Bosnia and Herzegovina convertible mark|11|Bosnia and Herzegovina|977
+BBD|2|Barbados dollar|12|Barbados|052
+BDT|2|Bangladeshi taka|13|Bangladesh|050
+BGN|2|Bulgarian lev|14|Bulgaria|975
+BHD|3|Bahraini dinar|15|Bahrain|048
+BIF|0|Burundian franc|16|Burundi|108
+BMD|2|Bermudian dollar (customarily known as Bermuda dollar)|17|Bermuda|060
+BND|2|Brunei dollar|18|Brunei, Singapore|096
+BOB|2|Boliviano|19|Bolivia|068
+BOV|2|Bolivian Mvdol (funds code)|20|Bolivia|984
+BRL|2|Brazilian real|21|Brazil|986
+BSD|2|Bahamian dollar|22|Bahamas|044
+BTN|2|Bhutanese ngultrum|23|Bhutan|064
+BWP|2|Botswana pula|24|Botswana|072
+BYR|0|Belarusian ruble|25|Belarus|974
+BZD|2|Belize dollar|26|Belize|084
+CAD|2|Canadian dollar|27|Canada|124
+CDF|2|Congolese franc|28|Democratic Republic of Congo|976
+CHE|2|WIR Euro (complementary currency)|29|Switzerland|947
+CHF|2|Swiss franc|30|Switzerland, Liechtenstein|756
+CHW|2|WIR Franc (complementary currency)|31|Switzerland|948
+CLF|0|Unidad de Fomento (funds code)|32|Chile|990
+CLP|0|Chilean peso|33|Chile|152
+CNY|2|Chinese yuan|34|China|156
+COP|2|Colombian peso|35|Colombia|170
+COU|2|Unidad de Valor Real|36|Colombia|970
+CRC|2|Costa Rican colon|37|Costa Rica|188
+CUC|2|Cuban convertible peso|38|Cuba|931
+CUP|2|Cuban peso|39|Cuba|192
+CVE|0|Cape Verde escudo|40|Cape Verde|132
+CZK|2|Czech koruna|41|Czech Republic|203
+DJF|0|Djiboutian franc|42|Djibouti|262
+DKK|2|Danish krone|43|Denmark, Faroe Islands, Greenland|208
+DOP|2|Dominican peso|44|Dominican Republic|214
+DZD|2|Algerian dinar|45|Algeria|12
+EGP|2|Egyptian pound|46|Egypt|818
+ERN|2|Eritrean nakfa|47|Eritrea|232
+ETB|2|Ethiopian birr|48|Ethiopia|230
+EUR|2|Euro|49|17 European Union countries, Andorra, Kosovo, Monaco, Montenegro, San Marino, Vatican City; see eurozone|978
+FJD|2|Fiji dollar|50|Fiji|242
+FKP|2|Falkland Islands pound|51|Falkland Islands|238
+GBP|2|Pound sterling|52|United Kingdom, British Crown dependencies (the Isle of Man and the Channel Islands), certain British Overseas Territories ( South Georgia and the South Sandwich Islands, British Antarctic Territory and British Indian Ocean Territory)|826
+GEL|2|Georgian lari|53|Georgia (country)|981
+GHS|2|Ghanaian cedi|54|Ghana|936
+GIP|2|Gibraltar pound|55|Gibraltar|292
+GMD|2|Gambian dalasi|56|Gambia|270
+GNF|0|Guinean franc|57|Guinea|324
+GTQ|2|Guatemalan quetzal|58|Guatemala|320
+GYD|2|Guyanese dollar|59|Guyana|328
+HKD|2|Hong Kong dollar|60|Hong Kong, Macao|344
+HNL|2|Honduran lempira|61|Honduras|340
+HRK|2|Croatian kuna|62|Croatia|191
+HTG|2|Haitian gourde|63|Haiti|332
+HUF|2|Hungarian forint|64|Hungary|348
+IDR|0|Indonesian rupiah|65|Indonesia|360
+ILS|2|Israeli new sheqel|66|Israel, Palestinian territories[7]|376
+INR|2|Indian rupee|67|India|356
+IQD|3|Iraqi dinar|68|Iraq|368
+IRR|0|Iranian rial|69|Iran|364
+ISK|0|Icelandic krona|70|Iceland|352
+JMD|2|Jamaican dollar|71|Jamaica|388
+JOD|3|Jordanian dinar|72|Jordan|400
+JPY|0|Japanese yen|73|Japan|392
+KES|2|Kenyan shilling|74|Kenya|404
+KGS|2|Kyrgyzstani som|75|Kyrgyzstan|417
+KHR|2|Cambodian riel|76|Cambodia|116
+KMF|0|Comoro franc|77|Comoros|174
+KPW|0|North Korean won|78|North Korea|408
+KRW|0|South Korean won|79|South Korea|410
+KWD|3|Kuwaiti dinar|80|Kuwait|414
+KYD|2|Cayman Islands dollar|81|Cayman Islands|136
+KZT|2|Kazakhstani tenge|82|Kazakhstan|398
+LAK|0|Lao kip|83|Laos|418
+LBP|0|Lebanese pound|84|Lebanon|422
+LKR|2|Sri Lankan rupee|85|Sri Lanka|144
+LRD|2|Liberian dollar|86|Liberia|430
+LSL|2|Lesotho loti|87|Lesotho|426
+LTL|2|Lithuanian litas|88|Lithuania|440
+LVL|2|Latvian lats|89|Latvia|428
+LYD|3|Libyan dinar|90|Libya|434
+MAD|2|Moroccan dirham|91|Morocco|504
+MDL|2|Moldovan leu|92|Moldova (except Transnistria)|498
+MGA||Malagasy ariary|93|Madagascar|969
+MKD|2|Macedonian denar|94|Republic of Macedonia|807
+MMK|0|Myanma kyat|95|Myanmar|104
+MNT|2|Mongolian tugrik|96|Mongolia|496
+MOP|2|Macanese pataca|97|Macao|446
+MRO||Mauritanian ouguiya|98|Mauritania|478
+MUR|2|Mauritian rupee|99|Mauritius|480
+MVR|2|Maldivian rufiyaa|100|Maldives|462
+MWK|2|Malawian kwacha|101|Malawi|454
+MXN|2|Mexican peso|102|Mexico|484
+MXV|2|Mexican Unidad de Inversion (UDI) (funds code)|103|Mexico|979
+MYR|2|Malaysian ringgit|104|Malaysia|458
+MZN|2|Mozambican metical|105|Mozambique|943
+NAD|2|Namibian dollar|106|Namibia|516
+NGN|2|Nigerian naira|107|Nigeria|566
+NIO|2|Nicaraguan cordoba|108|Nicaragua|558
+NOK|2|Norwegian krone|109|Norway, Svalbard, Jan Mayen, Bouvet Island, Queen Maud Land, Peter I Island|578
+NPR|2|Nepalese rupee|110|Nepal|524
+NZD|2|New Zealand dollar|111|Cook Islands, New Zealand, Niue, Pitcairn, Tokelau, Ross Dependency|554
+OMR|3|Omani rial|112|Oman|512
+PAB|2|Panamanian balboa|113|Panama|590
+PEN|2|Peruvian nuevo sol|114|Peru|604
+PGK|2|Papua New Guinean kina|115|Papua New Guinea|598
+PHP|2|Philippine peso|116|Philippines|608
+PKR|2|Pakistani rupee|117|Pakistan|586
+PLN|2|Polish zloty|118|Poland|985
+PYG|0|Paraguayan guarani|119|Paraguay|600
+QAR|2|Qatari riyal|120|Qatar|634
+RON|2|Romanian new leu|121|Romania|946
+RSD|2|Serbian dinar|122|Serbia|941
+RUB|2|Russian rouble|123|Russia, Abkhazia, South Ossetia|643
+RWF|0|Rwandan franc|124|Rwanda|646
+SAR|2|Saudi riyal|125|Saudi Arabia|682
+SBD|2|Solomon Islands dollar|126|Solomon Islands|90
+SCR|2|Seychelles rupee|127|Seychelles|690
+SDG|2|Sudanese pound|128|Sudan|938
+SEK|2|Swedish krona/kronor|129|Sweden|752
+SGD|2|Singapore dollar|130|Singapore, Brunei|702
+SHP|2|Saint Helena pound|131|Saint Helena|654
+SLL|0|Sierra Leonean leone|132|Sierra Leone|694
+SOS|2|Somali shilling|133|Somalia (except Somaliland)|706
+SRD|2|Surinamese dollar|134|Suriname|968
+SSP|2|South Sudanese pound|135|South Sudan|728
+STD|0|Sao Tome and Principe dobra|136|Sao Tome and Principe|678
+SYP|2|Syrian pound|137|Syria|760
+SZL|2|Swazi lilangeni|138|Swaziland|748
+THB|2|Thai baht|139|Thailand|764
+TJS|2|Tajikistani somoni|140|Tajikistan|972
+TMT|2|Turkmenistani manat|141|Turkmenistan|934
+TND|3|Tunisian dinar|142|Tunisia|788
+TOP|2|Tongan pa?anga|143|Tonga|776
+TRY|2|Turkish lira|144|Turkey, Northern Cyprus|949
+TTD|2|Trinidad and Tobago dollar|145|Trinidad and Tobago|780
+TWD|2|New Taiwan dollar|146|Taiwan|901
+TZS|2|Tanzanian shilling|147|Tanzania|834
+UAH|2|Ukrainian hryvnia|148|Ukraine|980
+UGX|2|Ugandan shilling|149|Uganda|800
+USD|2|United States dollar|150|American Samoa, British Indian Ocean Territory, British Virgin Islands, Caribbean Netherlands, Ecuador, El Salvador, Guam, Haiti, Marshall Islands, Micronesia, Northern Mariana Islands, Palau, Panama, Puerto Rico, Timor-Leste, Turks and Caicos Islands, Un|840
+USN|2|United States dollar (next day) (funds code)|151|United States|997
+USS|2|United States dollar (same day) (funds code) (one source[who?] claims it is no longer used, but it is still on the ISO 4217-MA list)|152|United States|998
+UYI|0|Uruguay Peso en Unidades Indexadas (URUIURUI) (funds code)|153|Uruguay|940
+UYU|2|Uruguayan peso|154|Uruguay|858
+UZS|2|Uzbekistan som|155|Uzbekistan|860
+VEF|2|Venezuelan bolivar fuerte|156|Venezuela|937
+VND|0|Vietnamese d?ng|157|Vietnam|704
+VUV|0|Vanuatu vatu|158|Vanuatu|548
+WST|2|Samoan tala|159|Samoa|882
+XAF|0|CFA franc BEAC|160|Cameroon, Central African Republic, Republic of the Congo, Chad, Equatorial Guinea, Gabon|950
+XAG||Silver (one troy ounce)|161||961
+XAU||Gold (one troy ounce)|162||959
+XBA||European Composite Unit (EURCO) (bond market unit)|163||955
+XBB||European Monetary Unit (E.M.U.-6) (bond market unit)|164||956
+XBC||European Unit of Account 9 (E.U.A.-9) (bond market unit)|165||957
+XBD||European Unit of Account 17 (E.U.A.-17) (bond market unit)|166||958
+XCD|2|East Caribbean dollar|167|Anguilla, Antigua and Barbuda, Dominica, Grenada, Montserrat, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines|951
+XDR||Special drawing rights|168|International Monetary Fund|960
+XFU||UIC franc (special settlement currency)|169|International Union of Railways|Nil
+XOF|0|CFA Franc BCEAO|170|Benin, Burkina Faso, Cote d'Ivoire, Guinea-Bissau, Mali, Niger, Senegal, Togo|952
+XPD||Palladium (one troy ounce)|171||964
+XPF|0|CFP franc|172|French Polynesia, New Caledonia, Wallis and Futuna|953
+XPT||Platinum (one troy ounce)|173||962
+XTS||Code reserved for testing purposes|174||963
+XXX||No currency|175||999
+YER|2|Yemeni rial|176|Yemen|886
+ZAR|2|South African rand|177|South Africa|710
+ZMK|2|Zambian kwacha|178|Zambia|894
+ZWL|2|Zimbabwe dollar|179|Zimbabwe|932

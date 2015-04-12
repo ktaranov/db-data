@@ -1,0 +1,87 @@
+"[Alpha]|[BGNName]|[Category]|[GOSTName]|[ISO31662ID]"
+-|Not defined|Not defined|Not defined|0
+RU-AD|Adygeya, Respublika|republic|Adygeja, Respublika|1
+RU-AL|Altay, Respublika|republic|Altaj, Respublika|2
+RU-ALT|Altayskiy kray|administrative territory|Altajskij kraj|3
+RU-AMU|Amurskaya oblast'|administrative region|Amurskaja oblast'|4
+RU-ARK|Arkhangel'skaya oblast'|administrative region|Arhangel'skaja oblast'|5
+RU-AST|Astrakhanskaya oblast'|administrative region|Astrahanskaja oblast'|6
+RU-BA|Bashkortostan, Respublika|republic|Baskortostan, Respublika|7
+RU-BEL|Belgorodskaya oblast'|administrative region|Belgorodskaja oblast'|8
+RU-BRY|Bryanskaya oblast'|administrative region|Brjanskaja oblast'|9
+RU-BU|Buryatiya, Respublika|republic|Burjatija, Respublika|10
+RU-CE|Chechenskaya Respublika|republic|Cecenskaja Respublika|11
+RU-CHE|Chelyabinskaya oblast'|administrative region|Celjabinskaja oblast'|12
+RU-CHU|Chukotskiy avtonomnyy okrug|autonomous district|Cukotskij avtonomnyj okrug|13
+RU-CU|Chuvashskaya Respublika|republic|Cuvasskaja Respublika|14
+RU-DA|Dagestan, Respublika|republic|Dagestan, Respublika|15
+RU-IN|Ingushetiya, Respublika|republic|Ingusetija, Respublika|16
+RU-IRK|Irkutskaya oblast'|administrative region|Irkutskaja oblast'|17
+RU-IVA|Ivanovskaya oblast'|administrative region|Ivanovskaja oblast'|18
+RU-KAM|Kamchatskiy kray|administrative territory|Kamcatskij kraj|19
+RU-KB|Kabardino-Balkarskaya Respubl|republic|Kabardino-Balkarskaja Respubli|20
+RU-KC|Karachayevo-Cherkesskaya Resp|republic|Karacajevo-Cerkesskaja Respubl|21
+RU-KDA|Krasnodarskiy kray|administrative territory|Krasnodarskij kraj|22
+RU-KEM|Kemerovskaya oblast'|administrative region|Kemerovskaja oblast'|23
+RU-KGD|Kaliningradskaya oblast'|administrative region|Kaliningradskaja oblast'|24
+RU-KGN|Kurganskaya oblast'|administrative region|Kurganskaja oblast'|25
+RU-KHA|Khabarovskiy kray|administrative territory|Habarovskij kraj|26
+RU-KHM|Khanty-Mansiyskiy avtonomnyy o|autonomous district|Hanty-Mansijskij avtonomnyj ok|27
+RU-KIR|Kirovskaya oblast'|administrative region|Kirovskaja oblast'|28
+RU-KK|Khakasiya, Respublika|republic|Hakasija, Respublika|29
+RU-KL|Kalmykiya, Respublika|republic|Kalmykija, Respublika|30
+RU-KLU|Kaluzhskaya oblast'|administrative region|Kaluzskaja oblast'|31
+RU-KO|Komi, Respublika|republic|Komi, Respublika|32
+RU-KOS|Kostromskaya oblast'|administrative region|Kostromskaja oblast'|33
+RU-KR|Kareliya, Respublika|republic|Karelija, Respublika|34
+RU-KRS|Kurskaya oblast'|administrative region|Kurskaja oblast'|35
+RU-KYA|Krasnoyarskiy kray|administrative territory|Krasnojarskij kraj|36
+RU-LEN|Leningradskaya oblast'|administrative region|Leningradskaja oblast'|37
+RU-LIP|Lipetskaya oblast'|administrative region|Lipetskaja oblast'|38
+RU-MAG|Magadanskaya oblast'|administrative region|Magadanskaja oblast'|39
+RU-ME|Mariy El, Respublika|republic|Marij El, Respublika|40
+RU-MO|Mordoviya, Respublika|republic|Mordovija, Respublika|41
+RU-MOS|Moskovskaya oblast'|administrative region|Moskovskaja oblast'|42
+RU-MOW|Moskva|autonomous city|Moskva|43
+RU-MUR|Murmanskaya oblast'|administrative region|Murmanskaja oblast'|44
+RU-NEN|Nenetskiy avtonomnyy okrug|autonomous district|Nenetskij avtonomnyj okrug|45
+RU-NGR|Novgorodskaya oblast'|administrative region|Novgorodskaja oblast'|46
+RU-NIZ|Nizhegorodskaya oblast'|administrative region|Nizegorodskaja oblast'|47
+RU-NVS|Novosibirskaya oblast'|administrative region|Novosibirskaja oblast'|48
+RU-OMS|Omskaya oblast'|administrative region|Omskaja oblast'|49
+RU-ORE|Orenburgskaya oblast'|administrative region|Orenburgskaja oblast'|50
+RU-ORL|Orlovskaya oblast'|administrative region|Orlovskaja oblast'|51
+RU-PER|Permskiy kray|administrative territory|Permskij kraj|52
+RU-PNZ|Penzenskaya oblast'|administrative region|Penzenskaja oblast'|53
+RU-PRI|Primorskiy kray|administrative territory|Primorskij kraj|54
+RU-PSK|Pskovskaya oblast'|administrative region|Pskovskaja oblast'|55
+RU-ROS|Rostovskaya oblast'|administrative region|Rostovskaja oblast'|56
+RU-RYA|Ryazanskaya oblast'|administrative region|Rjazanskaja oblast'|57
+RU-SA|Sakha, Respublika [Yakutiya]|republic|Saha, Respublika [Jakutija]|58
+RU-SAK|Sakhalinskaya oblast'|administrative region|Sahalinskaja oblast'|59
+RU-SAM|Samarskaya oblast'|administrative region|Samarskaja oblast'|60
+RU-SAR|Saratovskaya oblast'|administrative region|Saratovskaja oblast'|61
+RU-SE|Severnaya Osetiya-Alaniya, Re|republic|Severnaja Osetija-Alanija, Res|62
+RU-SMO|Smolenskaya oblast'|administrative region|Smolenskaja oblast'|63
+RU-SPE|Sankt-Peterburg|autonomous city|Sankt-Peterburg|64
+RU-STA|Stavropol'skiy kray|administrative territory|Stavropol'skij kraj|65
+RU-SVE|Sverdlovskaya oblast'|administrative region|Sverdlovskaja oblast'|66
+RU-TA|Tatarstan, Respublika|republic|Tatarstan, Respublika|67
+RU-TAM|Tambovskaya oblast'|administrative region|Tambovskaja oblast'|68
+RU-TOM|Tomskaya oblast'|administrative region|Tomskaja oblast'|69
+RU-TUL|Tul'skaya oblast'|administrative region|Tul'skaja oblast'|70
+RU-TVE|Tverskaya oblast'|administrative region|Tverskaja oblast'|71
+RU-TY|Tyva, Respublika [Tuva]|republic|Tyva, Respublika [Tuva]|72
+RU-TYU|Tyumenskaya oblast'|administrative region|Tjumenskaja oblast'|73
+RU-UD|Udmurtskaya Respublika|republic|Udmurtskaja Respublika|74
+RU-ULY|Ul'yanovskaya oblast'|administrative region|Ul'janovskaja oblast'|75
+RU-VGG|Volgogradskaya oblast'|administrative region|Volgogradskaja oblast'|76
+RU-VLA|Vladimirskaya oblast'|administrative region|Vladimirskaja oblast'|77
+RU-VLG|Vologodskaya oblast'|administrative region|Vologodskaja oblast'|78
+RU-VOR|Voronezhskaya oblast'|administrative region|Voronezskaja oblast'|79
+RU-YAN|Yamalo-Nenetskiy avtonomnyy ok|autonomous district|Jamalo-Nenetskij avtonomnyj ok|80
+RU-YAR|Yaroslavskaya oblast'|administrative region|Jaroslavskaja oblast'|81
+RU-YEV|Yevreyskaya avtonomnaya oblast|autonomous region|Evrejskaja avtonomnaja oblast'|82
+RU-ZAB|Zabaykal'skiy kray|administrative territory|Zabajkal'skij kraj|83
+UA-43|Respublika Krym|republic|Respublika Krym|84
+UA-40|Sevastopol|autonomous city|Sevastopol'|85
