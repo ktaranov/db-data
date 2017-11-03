@@ -20,7 +20,6 @@ Navigation
  - [Russsia data (RUS)](#russsia-data-(rus))
    - [Russia Classifiers](#russia-classifiers)
  - [ISO data](#iso-data)
- - [IEA: Internationl Energy Agency](#iea-internationl-energy-agency)
 
 
 ## Russsia data (RUS)
@@ -43,10 +42,7 @@ Data from International Organization for Standardization ([ISO])
  - ISO 3166-2
 
 
-## IEA: Internationl Energy Agency
-
-
-# License
-MIT
+## License
+[MIT](/LICENSE)
 
 [ISO]:http://www.iso.org
